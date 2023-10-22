@@ -127,5 +127,7 @@ module.exports = {
     autoReply,
     autoReply2,
     autoReply3,
-    copyright:"Kumuthu Prabhasha"
+    copyright:"chathun anusara"
 }
+if(msg.match(/kalada)){
+    R = "තාම නෑ අනේ ඔයා කාලද"
